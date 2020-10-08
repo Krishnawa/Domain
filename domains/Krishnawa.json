@@ -1,0 +1,12 @@
+{
+  "description": "Krishnawa Project website",
+  "repo": "https://github.com/Krishnawa/github-username.github.io",
+  "owner": {
+    "username": "Krishnawa",
+    "email": "nadhkrishna@gmail.com"
+  },
+  "record": {
+    "CNAME": "Krishnawa.github.io",
+    "URL": "https://krishnawa.is-a.dev"
+  }
+}
